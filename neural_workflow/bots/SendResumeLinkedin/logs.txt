@@ -1,0 +1,12 @@
+2024-10-07T21:52:03.919348-0300 | DEBUG | 22652  __init__:29 - Diretorio de cokkies criado com sucesso !!!
+C:\Users\fabricio.lopes\Documents\07.Fork\01.Python\Neural-Helix\neural_workflow\bots\SendResumeLinkedin\cookies
+2024-10-07T21:52:03.919348-0300 | DEBUG | 22652  __init__:33 - Pasta de cokkies criado com sucesso !!!
+C:\Users\fabricio.lopes\Documents\07.Fork\01.Python\Neural-Helix\neural_workflow\bots\SendResumeLinkedin\cookies/34b9d57753c7b62eb6c598fc446cef89.pkl
+2024-10-07T21:59:14.164746-0300 | DEBUG | 24988  __init__:29 - Diretorio de cokkies criado com sucesso !!!
+C:\Users\fabricio.lopes\Documents\07.Fork\01.Python\Neural-Helix\neural_workflow\bots\SendResumeLinkedin\cookies
+2024-10-07T21:59:14.165251-0300 | DEBUG | 24988  __init__:33 - Pasta de cokkies criado com sucesso !!!
+C:\Users\fabricio.lopes\Documents\07.Fork\01.Python\Neural-Helix\neural_workflow\bots\SendResumeLinkedin\cookies/34b9d57753c7b62eb6c598fc446cef89.pkl
+2024-10-07T22:06:50.576040-0300 | DEBUG | 5140  __init__:29 - Diretorio de cokkies criado com sucesso !!!
+C:\Users\fabricio.lopes\Documents\07.Fork\01.Python\Neural-Helix\neural_workflow\bots\SendResumeLinkedin\cookies
+2024-10-07T22:06:50.576040-0300 | DEBUG | 5140  __init__:33 - Pasta de cokkies criado com sucesso !!!
+C:\Users\fabricio.lopes\Documents\07.Fork\01.Python\Neural-Helix\neural_workflow\bots\SendResumeLinkedin\cookies/34b9d57753c7b62eb6c598fc446cef89.pkl
