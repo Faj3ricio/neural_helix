@@ -10,7 +10,7 @@ import os
 
 def get_version_file_path():
     """Retorna o caminho absoluto para o arquivo version.py."""
-    return os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "version.py"))
+    return os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "version.py"))
 
 
 def read_version(file_path=None):
