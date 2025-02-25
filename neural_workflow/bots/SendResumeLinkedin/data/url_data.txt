@@ -1,6 +1,0 @@
-https://www.linkedin.com/jobs/search/?f_AL=true&keywords=Analista de Dados&f_JT=F%2CP%2CC&f_WT=1%2C2%2C3&location=Belo Horizonte&f_E=3sortBy=R
-https://www.linkedin.com/jobs/search/?f_AL=true&keywords=Engenheiro de Dados&f_JT=F%2CP%2CC&f_WT=1%2C2%2C3&location=Belo Horizonte&f_E=3sortBy=R
-https://www.linkedin.com/jobs/search/?f_AL=true&keywords=Desenvolvedor Python&f_JT=F%2CP%2CC&f_WT=1%2C2%2C3&location=Belo Horizonte&f_E=3sortBy=R
-https://www.linkedin.com/jobs/search/?f_AL=true&keywords=Analista de BI&f_JT=F%2CP%2CC&f_WT=1%2C2%2C3&location=Belo Horizonte&f_E=3sortBy=R
-https://www.linkedin.com/jobs/search/?f_AL=true&keywords=Cientista de Dados&f_JT=F%2CP%2CC&f_WT=1%2C2%2C3&location=Belo Horizonte&f_E=3sortBy=R
-https://www.linkedin.com/jobs/search/?f_AL=true&keywords=Desenvolvedor RPA&f_JT=F%2CP%2CC&f_WT=1%2C2%2C3&location=Belo Horizonte&f_E=3sortBy=R

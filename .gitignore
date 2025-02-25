@@ -1,12 +1,16 @@
+# Default ignored files
+.idea
 # Credentials
-.env
 
 # Data
-/neural_workflow/data/input
-/neural_workflow/data/output
+neural_dataflow/data/processed/*
+neural_dataflow/data/raw/*
 
 # Logs
-/neural_workflow/reports/
+neural_dataflow/logs/logs.txt
 
 # Dist
-/pipe-distribuicao-combustivel/dist/
+
+# Old Version
+
+# Pycache
