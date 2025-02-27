@@ -4,7 +4,11 @@
 ╚═════════════════╝
 Carry out the entire procedure until extraction.
 """
-from facss_datastream.core.webdriver_singleton import WebDriverSingleton
+import time
+
+from core.singleton.webdriver_singleton import WebDriverSingleton
+from core.utils.utils import CrawlerManagements
+
 
 class StepsManipulationLinkedin:
     """
@@ -13,6 +17,7 @@ class StepsManipulationLinkedin:
 
     def __init__(self):
         self.driver = WebDriverSingleton.get_instance().get_driver()
+        self.cm = CrawlerManagements()
 
     def orchestrador(self):
         """
@@ -22,6 +27,17 @@ class StepsManipulationLinkedin:
 
     def linkedin_login(self):
         """
-        WIP
+        Perform the page login process
         """
+        self.cm.validation_url('https://www.linkedin.com/uas/login',
+                               'Entrar')
+        self.cm.validation_element('ID',
+                                   'username',
+                                   5).click()
+        time.sleep(5)
+
         pass
+
+
+spider_linkedin = StepsManipulationLinkedin()
+spider_linkedin.orchestrador()

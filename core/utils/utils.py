@@ -35,6 +35,8 @@ import os
 import customtkinter as ctk
 import tkinter as tk
 
+from core.singleton.webdriver_singleton import WebDriverSingleton
+
 
 class DataManagements:
     """
