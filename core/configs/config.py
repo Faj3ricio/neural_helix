@@ -1,6 +1,13 @@
 # config.py
 from selenium.webdriver.chrome.options import Options
+from dotenv import load_dotenv
 import os
+
+
+# Caminho absoluto do .env
+dotenv_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "credentials", ".env"))
+# Carrega o .env
+load_dotenv(dotenv_path)
 
 # Diretório de download configurado
 DOWNLOAD_DIR = os.path.join(os.getcwd(), 'neural_dataflow', 'data', 'raw')

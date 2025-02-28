@@ -1,9 +1,9 @@
 # Default ignored files
 .idea
+core/configs
 
 # Credentials
 core/configs/credentials
-core/configs/.env
 core/.venv
 
 # Data

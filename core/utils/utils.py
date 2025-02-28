@@ -787,7 +787,7 @@ class CrawlerManagements:
             if by_type == "XPATH":
                 found_element = WebDriverWait(self.driver, timeout).until(
                     ec.presence_of_element_located((By.XPATH, element)))
-            elif by_type == "CLASS_NAME":
+            elif by_type == "CLASS":
                 found_element = WebDriverWait(self.driver, timeout).until(
                     ec.presence_of_element_located((By.CLASS_NAME, element)))
             elif by_type == "CSS_SELECTOR":
